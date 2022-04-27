@@ -1,0 +1,2 @@
+# WQD7003_DATA-ANALYTICS-ASSIGNMENT_G6
+WQD7003:Data Analytics Assignment (Group 6)
